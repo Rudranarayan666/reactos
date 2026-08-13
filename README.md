@@ -114,7 +114,7 @@ Also see the [media/doc](/media/doc/) subdirectory for some sparse notes.
 Active devs are listed as members of [GitHub organization](https://github.com/orgs/reactos/people).
 See also the [CREDITS](CREDITS) file for others.
 
-## Code mirrors
+## Code mirrors i am is rudra
 
 The main development is done on [GitHub](https://github.com/reactos/reactos). We have an [alternative mirror](https://git.reactos.org/?p=reactos.git) in case GitHub is down.
 
